@@ -8,8 +8,8 @@ This project showcases dynamic, real-time data visualization using JavaScript an
 
 # Screenshot
 # 1. Bar - Chart
-(images/screenshot-2![Screenshot-1](https://github.com/user-attachments/assets/05ec00e1-af1b-468a-a199-35821e9c028e)
-.png)
+(https://github.com/user-attachments/assets/05ec00e1-af1b-468a-a199-35821e9c028e)
+
 # Pie - Chart
-(images/screenshot-2![Screenshot-2](https://github.com/user-attachments/assets/05ec00e1-af1b-468a-a199-35821e9c028e)
-.png)
+(https://github.com/user-attachments/assets/05ec00e1-af1b-468a-a199-35821e9c028e)
+
